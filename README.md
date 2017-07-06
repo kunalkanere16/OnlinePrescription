@@ -3,7 +3,7 @@ This is a online prescription project using java and spring stack.
 
 
 ##Demo address
-http://23.105.210.117:8080/OnlinePrescription/
+http://localhost:8080/OnlinePrescription/
 
 ##Test account
 <b>Doctor:</b>&nbsp;kunal/test<br>
