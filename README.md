@@ -17,3 +17,9 @@ http://localhost:8080/OnlinePrescription/
 <b>Pharmacist:</b>&nbsp;fangyi/test<br>
 <b>Patient:</b>&nbsp;tanhao/test<br>
 <b>Admin:</b>&nbsp;stefan/test
+
+
+##Future Improvements
+- Hibernate can be used to improve transaction management, connection pool and handle exceptions
+- Unit testing
+- Some UI enhancement
